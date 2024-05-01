@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1 Java criando a sua primeira aplicação.iml" filepath="$PROJECT_DIR$/.idea/1 Java criando a sua primeira aplicação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conversor-temperatura/conversor-temperatura.iml" filepath="$PROJECT_DIR$/conversor-temperatura/conversor-temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio1/desafio1.iml" filepath="$PROJECT_DIR$/desafio1/desafio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio2/desafio2.iml" filepath="$PROJECT_DIR$/desafio2/desafio2.iml" />
+    </modules>
+  </component>
+</project>
