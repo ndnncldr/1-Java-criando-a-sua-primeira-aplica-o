@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/conversor-temperatura/conversor-temperatura.iml" filepath="$PROJECT_DIR$/conversor-temperatura/conversor-temperatura.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio1/desafio1.iml" filepath="$PROJECT_DIR$/desafio1/desafio1.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio2/desafio2.iml" filepath="$PROJECT_DIR$/desafio2/desafio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio3/desafio3.iml" filepath="$PROJECT_DIR$/desafio3/desafio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jogo-de-adivinhacao/jogo-de-adivinhacao.iml" filepath="$PROJECT_DIR$/jogo-de-adivinhacao/jogo-de-adivinhacao.iml" />
     </modules>
   </component>
 </project>
